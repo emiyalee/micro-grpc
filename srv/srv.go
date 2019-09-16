@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	pb "srv/proto/sum"
+	pb "github.com/emiyalee/micro-grpc/srv/proto/sum"
 
 	"github.com/micro/go-micro"
 )
