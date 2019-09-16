@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	pb "cli/proto/sum"
+	pb "github.com/emiyalee/micro-grpc/srv/proto/sum"
 
 	"google.golang.org/grpc"
 )
